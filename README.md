@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CruxChild
-- 👀 I’m interested in blockChain and IoT.
-- 🌱 I’m currently learning frontEnd dev, Js, HTML5/CSS3
+- 👀 I’m interested in IA and IoT.
+- 🌱 I’m currently learning frontEnd dev, Js, and studying Computer Science higher course. 
 - 💞️ I’m looking to collaborate, in initial coding process frontEnd
-- 📫 How to reach me, send me an email with subject: giovanethrb@gmail.com
+- 📫 How to reach me, send me an email with subject: giovanethrb@gmail.com or text me on telegram +5511989459403
 
 <!---
 CruxChild/CruxChild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
