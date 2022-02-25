@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CruxChild
 - 👀 I’m interested in IA and IoT.
-- 🌱 I’m currently learning frontEnd dev, Js, and studying Computer Science higher course. 
+- 🌱 I’m currently learning frontEnd dev, Js, and studying Computer Science in University. 
 - 💞️ I’m looking to collaborate, in initial coding process frontEnd
 - 📫 How to reach me, send me an email with subject: giovanethrb@gmail.com or text me on telegram +5511989459403
 
